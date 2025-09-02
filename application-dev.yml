@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring-cloud-config-client-dev
+    name: spring-cloud-config-client-dev-test
 server:
   port: 8091
 logging:
