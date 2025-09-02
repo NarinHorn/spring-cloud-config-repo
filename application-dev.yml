@@ -1,12 +1,5 @@
 spring:
   application:
-    name: spring-cloud-config-server
-  cloud:
-    config:
-      server:
-        git:
-          url: https://github.com/NarinHorn/spring-cloud-config-repo.git
-          default-label: main # branch name
-          clone-on-start: true
+    name: spring-cloud-config-client
 server:
   port: 8891
